@@ -16,7 +16,7 @@ The main objective of this project is to design and develop an “On-demand Serv
 To install script module
 
 ```
-git clone http://192.168.10.23/yii2/whizzer-yii2-1836
+https://github.com/BdeDev/test-code.git
 ```
 
 Storage folder must have 
